@@ -51,6 +51,7 @@ Figure -02 HALF Subtractor
 **Program:**
 
 Developed by: Tharun S 
+
 Register Number: 25007797
 
 **RTL Schematic**
